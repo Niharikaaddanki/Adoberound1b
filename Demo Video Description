@@ -1,0 +1,55 @@
+🎥 Demo Video Description: Adobe Hackathon Round 1B
+This screen recording demonstrates the functionality of my solution for Round 1B of the Adobe "Connecting the Dots" Hackathon. The application is designed to intelligently identify and rank the most relevant sections from a collection of PDF documents, tailored to a given persona and job-to-be-done.
+
+📌 Key Highlights in the Video:
+📂 PDF Collection & Interface
+The user uploads multiple PDF documents through the Streamlit interface.
+
+All PDFs are processed entirely offline, ensuring full compatibility with Adobe’s runtime constraints.
+
+👤 Persona & Task Selection
+The user selects “Challenge 1B: Persona-Driven Document Intelligence.”
+
+A persona (e.g., Investment Analyst) is chosen from a dropdown.
+
+A job-to-be-done is entered (e.g., Analyze revenue trends and R&D investments).
+
+🔍 Intelligent Section Extraction
+The system automatically analyzes the structure of all uploaded PDFs.
+
+It performs keyword-based matching between section headings and the task input.
+
+Each section is scored for relevance and ranked accordingly.
+
+🧾 Output JSON Preview
+The app displays the generated JSON output, including:
+
+Metadata (documents, persona, task, timestamp)
+
+Extracted sections with page numbers and ranked relevance
+
+Subsection placeholders (stub text for refinement)
+
+💾 JSON Download Option
+Users can download the JSON output directly from the interface.
+
+Output format is fully aligned with the Adobe Round 1B schema.
+
+⚙ Performance
+The processing is fast and efficient (well under the 60-second limit for 3–5 PDFs).
+
+No API calls or external services are used — the entire pipeline is offline and CPU-only.
+
+💡 Technologies Used
+pdfminer.six – for layout-aware PDF parsing and heading extraction
+
+Streamlit – for interactive UI and visualization
+
+Custom heuristics – for keyword-based relevance ranking of document sections
+
+Standard Python libraries – including re, datetime, and json
+
+📁 File Details
+Filename: demo_adobe_round1B.mp4
+
+Purpose: To visually demonstrate the full workflow of the Round 1B solution — from persona selection to final ranked output — in a user-friendly and evaluator-ready format.
