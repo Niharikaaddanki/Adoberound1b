@@ -1,0 +1,686 @@
+{
+  "metadata": {
+    "documents": [
+      "adobe testing file.pdf"
+    ],
+    "persona": "PhD Researcher",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+    "processed_at": "2025-07-26T14:32:51.270334Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "Computer Science and Engineering (Artificial Intelligence)",
+      "score": 3,
+      "importance_rank": 1
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "score": 3,
+      "importance_rank": 2
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "3. What is space complexity? Illustrate an example for fixed and variable part in space",
+      "score": 3,
+      "importance_rank": 3
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "3. What is performance analysis? Give an algorithm for matrix multiplication and find the",
+      "score": 3,
+      "importance_rank": 4
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "1. Using step count method analyze time complexity of procedure to add two m*n matrices?",
+      "score": 3,
+      "importance_rank": 5
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "2. Explain randomized algorithm concept with an example?",
+      "score": 3,
+      "importance_rank": 6
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "where n=3, m=20, and profits (p1, p2, p3) = (25, 24, 15) and weights (w1, w2, w3) = (18, 15, 10).",
+      "score": 3,
+      "importance_rank": 7
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "2. Write divide and conquer recursive quick sort algorithm, and derive the time complexity of the",
+      "score": 3,
+      "importance_rank": 8
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "3. Explain the general principle of Greedy Method and list the applications of Greedy Method.",
+      "score": 3,
+      "importance_rank": 9
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "1. Discuss working strategy of merge sort and illustrate the process of merge sort algorithm for the",
+      "score": 3,
+      "importance_rank": 10
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "1. Write general method of divide and conquer method, and list the different applications?",
+      "score": 3,
+      "importance_rank": 11
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "2. Explain differences between Prim\u2019s and Kruskal\u2019s Minimum spanning Tree algorithm. Derive the",
+      "score": 3,
+      "importance_rank": 12
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "section_title": "1. Write the algorithm to compute 0/1 Knapsack problem using dynamic programming and explain it.",
+      "score": 3,
+      "importance_rank": 13
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "section_title": "2. Write the algorithm to compute 0/1 Knapsack problem using dynamic programming and explain it.",
+      "score": 3,
+      "importance_rank": 14
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "1. Solve the following Sum of Subsets problem. Let w = {5,7,10,12,15,18,20} and m= 35. Find",
+      "score": 3,
+      "importance_rank": 15
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "3. Explain the Graph \u2013 coloring problem. And draw the state space tree for m= 3",
+      "score": 3,
+      "importance_rank": 16
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "3. Consider the following instances of knapsack problem where n=4, m=8kg, and profits (p1, p2,",
+      "score": 3,
+      "importance_rank": 17
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "p3,p4) = (3,5,6,10) and weights (w1, w2, w3,w4) = (2,3,4,5). Using back tracking draw the state",
+      "score": 3,
+      "importance_rank": 18
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "= (11, 13, 24, 7) and M=31.Draw the portion of the state space tree using fixed \u2013 tuple sized",
+      "score": 3,
+      "importance_rank": 19
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "section_title": "1. Explain in detail about Branch and Bound with a general method algorithm.",
+      "score": 3,
+      "importance_rank": 20
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "2. Write different pseudo code conventions used to represent an algorithm?",
+      "score": 2,
+      "importance_rank": 21
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "1. How do you measure time complexity of an algorithm?",
+      "score": 2,
+      "importance_rank": 22
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "2. What is Asymptotic notation? Explain different types of asymptotic notations with",
+      "score": 2,
+      "importance_rank": 23
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "3. Derive the Runtime complexity of non-recursive Fibonacci series algorithm using tabular",
+      "score": 2,
+      "importance_rank": 24
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "1. Discuss about fractional knapsack problem. Consider the following instances of knapsack problem",
+      "score": 2,
+      "importance_rank": 25
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "Obtain the optimal solution using greedy approach.",
+      "score": 2,
+      "importance_rank": 26
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "2. What is the role of \u2018min\u2019 cost edge in the graph to find minimum cost spanning tree using Kruskals",
+      "score": 2,
+      "importance_rank": 27
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "section_title": "1. Describe the Dynamic 0/1 Knapsack Problem. Find an optimal solution for the dynamic",
+      "score": 2,
+      "importance_rank": 28
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "section_title": "2. Construct the binary tree given the following traversals with detailed steps : Inorder: G D H B A E I",
+      "score": 2,
+      "importance_rank": 29
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "section_title": "C F Pre order : A B D G H C E I F",
+      "score": 2,
+      "importance_rank": 30
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "2. What is a Hamiltonian Cycle? Explain how to find Hamiltonian path and cycle using",
+      "score": 2,
+      "importance_rank": 31
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "1. Explain in detail about 8 \u2013 queens problem using Back tracking with example.",
+      "score": 2,
+      "importance_rank": 32
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "2. Define state space tree. Draw the state space tree for m \u2013 coloring graph.",
+      "score": 2,
+      "importance_rank": 33
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "3. Give the statement of sum \u2013of subsets problem. Find all sum of subsets for n=4, (w1, w2, w3, w4)",
+      "score": 2,
+      "importance_rank": 34
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "section_title": "2. Give a brief explanation about NP \u2013 Hard Algorithms with an example.",
+      "score": 2,
+      "importance_rank": 35
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "section_title": "1. Explain about various non \u2013 deterministic algorithms with examples.",
+      "score": 2,
+      "importance_rank": 36
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "1. What is performance measurement of algorithm?",
+      "score": 1,
+      "importance_rank": 37
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "time complexity using step-count method?",
+      "score": 1,
+      "importance_rank": 38
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "section_title": "method?",
+      "score": 1,
+      "importance_rank": 39
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "algorithm?",
+      "score": 1,
+      "importance_rank": 40
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "given data 43,32,22,78,63,57,91,13",
+      "score": 1,
+      "importance_rank": 41
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "algorithm? Give the implementation.",
+      "score": 1,
+      "importance_rank": 42
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "3. Explain recursive binary search with suitable example?",
+      "score": 1,
+      "importance_rank": 43
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "time complexity of Kruskal\u2019s algorithm.",
+      "score": 1,
+      "importance_rank": 44
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "section_title": "3. Explain Single Source Shortest Path Algorithm with an example?",
+      "score": 1,
+      "importance_rank": 45
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "section_title": "programming 0/1 knapsack instance for n=3, m=6, profits are (p1, p2, p3 ) = (1,2,5), weights are",
+      "score": 1,
+      "importance_rank": 46
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "section_title": "1. Explain the concept of Traveling sales force problem with an example?",
+      "score": 1,
+      "importance_rank": 47
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "2.Write the algorithm to solve N \u2013 Queens problem. Trace out the algorithm for 4- queens",
+      "score": 1,
+      "importance_rank": 48
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "problem. Mention any two solutions.",
+      "score": 1,
+      "importance_rank": 49
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "1. What is Graph Coloring. Explain with an example.",
+      "score": 1,
+      "importance_rank": 50
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "backtracking algorithm.",
+      "score": 1,
+      "importance_rank": 51
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "space tree.",
+      "score": 1,
+      "importance_rank": 52
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "section_title": "approach.",
+      "score": 1,
+      "importance_rank": 53
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "section_title": "2. Explain with an example about Fractional Knap Sack Problem in Class NP. Give an algorithm.",
+      "score": 1,
+      "importance_rank": 54
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "section_title": "4. Explain about Cook\u2019s theorem. ?",
+      "score": 1,
+      "importance_rank": 55
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "section_title": "5. Explain with an example about Fractional Knap Sack problem in Class P. Give an algorithm.",
+      "score": 1,
+      "importance_rank": 56
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 1,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 2,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 3,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 4,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "refined_text": "Sample refined snippet"
+    },
+    {
+      "document": "adobe testing file.pdf",
+      "page": 5,
+      "refined_text": "Sample refined snippet"
+    }
+  ]
+}
